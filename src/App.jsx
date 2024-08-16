@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import Navbar from "./components/Navbar";
 import { v4 as uuidv4 } from "uuid";
 import { MdModeEdit, MdDeleteForever } from "react-icons/md";
-import GridBackground from "./components/gridBackground";
+import GridBackground from "./components/GridBackground";
 import Modal from "./components/Modal";
 
 function App() {
