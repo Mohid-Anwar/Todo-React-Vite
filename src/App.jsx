@@ -118,7 +118,7 @@ function App() {
         <Navbar />
         <div className="relative min-h-[94vh] overflow-hidden flex item-center-justify-center bg-gray-900">
           <GridBackground />
-          <div className="relative md:container mx-auto my-5 rounded-xl p-5 bg-violet-200 bg-opacity-50 min-h-[80vh] md:w-1/2">
+          <div className="relative md:container mx-auto my-5 rounded-xl p-5 bg-violet-200 bg-opacity-50 h-[0%] md:w-1/2">
             <h1 className="font-bold text-center text-3xl ">
               Todo | Manage your Todos
             </h1>
